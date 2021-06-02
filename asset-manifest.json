@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/instrument-player-react/static/css/main.071c8690.chunk.css",
+    "main.js": "/instrument-player-react/static/js/main.9132c384.chunk.js",
+    "main.js.map": "/instrument-player-react/static/js/main.9132c384.chunk.js.map",
+    "runtime-main.js": "/instrument-player-react/static/js/runtime-main.4cf49c70.js",
+    "runtime-main.js.map": "/instrument-player-react/static/js/runtime-main.4cf49c70.js.map",
+    "static/js/2.dff4ef65.chunk.js": "/instrument-player-react/static/js/2.dff4ef65.chunk.js",
+    "static/js/2.dff4ef65.chunk.js.map": "/instrument-player-react/static/js/2.dff4ef65.chunk.js.map",
+    "index.html": "/instrument-player-react/index.html",
+    "static/css/main.071c8690.chunk.css.map": "/instrument-player-react/static/css/main.071c8690.chunk.css.map",
+    "static/js/2.dff4ef65.chunk.js.LICENSE.txt": "/instrument-player-react/static/js/2.dff4ef65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf49c70.js",
+    "static/js/2.dff4ef65.chunk.js",
+    "static/css/main.071c8690.chunk.css",
+    "static/js/main.9132c384.chunk.js"
+  ]
+}
